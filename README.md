@@ -11,7 +11,7 @@ Setup:
 2. Install preferred browser WebDriver (i.e Chromedriver)
 3. Download a Selenium Standalone Server
 3. Clone or download repository
-4. Run Composer Install to download the dependencies
+4. Run `composer install` to download the dependencies
 5. Create a .env file and place it in the root folder
 5. Open the .env.example file and copy its contents the .env file
 6. Fill out the needed data in the .env file
